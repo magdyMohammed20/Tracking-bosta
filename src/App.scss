@@ -1,0 +1,18 @@
+@import "./common/Colors.scss";
+
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: 'Cairo', sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+}
+
+.container{
+    margin: 0 40px;
+    height: 100%;
+}
